@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: cba5631265fd7ac40930aa9c9f0f74e0
+timeCreated: 1488302180
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BOS2_0
+    21300002: BOS2_1
+    21300004: BOS2_2
+    21300006: BOS2_3
+    21300008: BOS2_4
+    21300010: BOS2_5
+    21300012: BOS2_6
+    21300014: BOS2_7
+    21300016: BOS2_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BOS2_0
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 914
+        width: 124
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOS2_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 924
+        width: 105
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOS2_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 762
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOS2_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 807
+        width: 110
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOS2_4
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 641
+        width: 243
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOS2_5
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 373
+        width: 180
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOS2_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 315
+        width: 282
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOS2_7
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 74
+        width: 213
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOS2_8
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 119
+        width: 409
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

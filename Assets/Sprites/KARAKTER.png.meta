@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: ce238437ed45b264ba251f6f7f02fd2e
+timeCreated: 1488530912
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KARAKTER_0
+    21300002: KARAKTER_1
+    21300004: KARAKTER_2
+    21300006: KARAKTER_3
+    21300008: KARAKTER_4
+    21300010: KARAKTER_5
+    21300012: KARAKTER_6
+    21300014: KARAKTER_7
+    21300016: KARAKTER_8
+    21300018: KARAKTER_9
+    21300020: KARAKTER_10
+    21300022: KARAKTER_11
+    21300024: KARAKTER_12
+    21300026: KARAKTER_13
+    21300028: KARAKTER_14
+    21300030: KARAKTER_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: KARAKTER_0
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 666
+        width: 276
+        height: 309
+      alignment: 9
+      pivot: {x: .568604827, y: .173183605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KARAKTER_1
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 726
+        width: 333
+        height: 237
+      alignment: 9
+      pivot: {x: .755877316, y: .539946854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KARAKTER_2
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 921
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KARAKTER_3
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 916
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KARAKTER_4
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 795
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KARAKTER_5
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 799
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KARAKTER_6
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 790
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KARAKTER_7
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 306
+        width: 345
+        height: 514
+      alignment: 9
+      pivot: {x: .097518608, y: .475441068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KARAKTER_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 438
+        width: 285
+        height: 342
+      alignment: 9
+      pivot: {x: .400342494, y: .232401177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KARAKTER_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 725
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KARAKTER_10
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 731
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KARAKTER_11
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 725
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KARAKTER_12
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 647
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KARAKTER_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 85
+        width: 375
+        height: 281
+      alignment: 9
+      pivot: {x: .828205168, y: .836920142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KARAKTER_14
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 32
+        width: 306
+        height: 332
+      alignment: 9
+      pivot: {x: .18029286, y: .81368053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KARAKTER_15
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 70
+        width: 236
+        height: 486
+      alignment: 9
+      pivot: {x: .433139086, y: .883113444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
