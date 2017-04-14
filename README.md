@@ -1,0 +1,2 @@
+# GAME-LAWOMARU
+game platfrom
