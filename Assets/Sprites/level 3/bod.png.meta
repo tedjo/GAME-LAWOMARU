@@ -1,10 +1,11 @@
 fileFormatVersion: 2
-guid: 067386432dcd72d45ac3e9acf193c905
-timeCreated: 1491661200
+guid: a692b6a733272e340999a41dd9efdcaa
+timeCreated: 1492162943
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: pondok pesisir_0
+    21300000: bod_0
+    21300002: bod_1
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -53,13 +54,25 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pondok pesisir_0
+      name: bod_0
       rect:
         serializedVersion: 2
-        x: 51
-        y: 47
-        width: 702
-        height: 726
+        x: 175
+        y: 728
+        width: 160
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: bod_1
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 152
+        width: 719
+        height: 907
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
